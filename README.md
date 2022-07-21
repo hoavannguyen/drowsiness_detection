@@ -1,7 +1,7 @@
 # Drowsiness Detection by Face Landmarks
 ![](https://i.postimg.cc/DfbdzbCJ/ddetec.png)
-Based on: OpenCV, MediaPipe.
-Work well when using glasses.
+<br>Based on: OpenCV, MediaPipe.
+<br>Work well when using glasses.
 ## Demo
 https://www.youtube.com/watch?v=4RCuQTCX79o
 ## Reference
